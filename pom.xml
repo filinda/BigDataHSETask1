@@ -1,0 +1,15 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>BigDataHse_Task1_grp</groupId>
+  <artifactId>BigDataHse_Task1_art</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>BigDataHse_Task1</name>
+  <description>Manual MapReduce task for university classes</description>
+  <dependencies>
+  	<dependency>
+        <groupId>org.jfree</groupId>
+        <artifactId>jfreechart</artifactId>
+        <version>1.5.3</version>
+    </dependency>
+  </dependencies>
+</project>
